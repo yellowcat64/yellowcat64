@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yellowcat64
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Carrie
+- 👀 I’m interested in knowledge
+- 🌱 I’m currently learning anything
+- 💞️ I’m looking to collaborate on anywhere
+- 📫 How to reach me ccastim64@gmail.com
 
 <!---
 yellowcat64/yellowcat64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
